@@ -225,4 +225,4 @@ SmartSOS/
 ## 📜 License
 
 Made with ❤️ to save lives.
-Licensed under **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0** – improve it, deploy it.
+Licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** – improve it, deploy it.
